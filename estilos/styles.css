@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+img{
+    width: 180px;
+}
+section{
+    background-color: rgb(18, 92, 40);
+    margin-left: 20%;
+    margin-right: 20%;
+}
+body{
+background-color: rgb(36, 110, 36);
+}
+*{
+    text-align: center;
+}
